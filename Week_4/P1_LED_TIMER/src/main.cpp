@@ -1,5 +1,5 @@
 // Ahmad Bin Zia
-// 1011
+// 1008
 // Blinking LED using timer
 
 #include <Arduino.h>
